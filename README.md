@@ -5,7 +5,7 @@
 🌱 &nbsp; I'm always willing to learn new skills, as well as polishing my current ones. \
 🖌️ &nbsp; In my free time, I enjoy doing graphic design, playing videogames and solving big puzzles. \
 🎮 &nbsp; Part of the Smash Bros BCN Association. We organize Super Smash Bros Ultimate Tournaments in Barcelona! \
-✉️ &nbsp; Currently looking for a job! I'm eager to join new projects and meet people. Feel free to reach me out at iuliatodorkr@gmail.com \
+✉️ &nbsp; Looking for a job! I'm eager to join new projects and meet people. Feel free to reach me out at iuliatodorkr@gmail.com \
 📄 &nbsp; If you want to know more about me, you can check out my [résumé](https://drive.google.com/drive/folders/1UsJGhzDzDLmp_n08fdpruWaAZRGQIEXc?usp=drive_link). I'm open to any kind of feedback! \
 
 ## Tech Stack🛠
